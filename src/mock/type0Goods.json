@@ -1,0 +1,77 @@
+[
+  [
+    {
+    "goodsId": 1,
+    "goodsImg": "/images/07.png",
+    "goodsName": "香辣鸡腿堡",
+    "price": 18
+  },
+  {
+    "goodsId": 2,
+    "goodsImg": "/images/08.png",
+    "goodsName": "田园鸡腿堡",
+    "price": 15
+  },
+  {
+    "goodsId": 3,
+    "goodsImg": "./images/02.png",
+    "goodsName": "和风汉堡",
+    "price": 15
+  }
+  ],
+  [  
+      {
+      "goodsId": 4,
+      "goodsImg": "./images/06.png",
+      "goodsName": "快乐全家桶",
+      "price": 80
+    },
+    {
+      "goodsId": 5,
+      "goodsImg": "./images/01.png",
+      "goodsName": "脆皮炸鸡腿",
+      "price": 10
+    },
+    {
+      "goodsId": 6,
+      "goodsImg": "./images/04.png",
+      "goodsName": "魔法鸡块",
+      "price": 20
+    }
+  ],
+  [ 
+  {
+    "goodsId": 7,
+    "goodsImg": "./images/05.png",
+    "goodsName": "可乐大杯",
+    "price": 10
+  },
+  {
+    "goodsId": 8,
+    "goodsImg": "./images/09.png",
+    "goodsName": "雪顶咖啡",
+    "price": 18
+  }
+  ],
+  [
+    {
+    "goodsId": 9,
+    "goodsImg": "./images/10.png",
+    "goodsName": "大块鸡米花",
+    "price": 15
+  },
+  {
+    "goodsId": 10,
+    "goodsImg": "./images/03.png",
+    "goodsName": "香脆鸡柳",
+    "price": 17
+  },
+  {
+    "goodsId": 11,
+    "goodsImg": "./images/11.png",
+    "goodsName": "儿童套餐",
+    "price": 15
+  }
+  ]
+]
+  
